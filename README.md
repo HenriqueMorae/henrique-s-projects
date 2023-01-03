@@ -12,6 +12,6 @@ I worked with another programmer in Legend of Damacuri. In this specific project
 All the code in Supercharger and Dice Warriors is mine.
 
 ## ➕ More
-You can also check out another repositories to see other projects:
+You can also check out other repositories to see other projects:
   - [Phoenix](https://github.com/HenriqueMorae/fenix): A short strategy game about mythical birds.
-  - [Penguin Game](https://github.com/HenriqueMorae/IDJ-PenguinGame): Game made in the Introduction to Game Development class to build a simple C++ engine.
+  - [Penguin Game](https://github.com/HenriqueMorae/IDJ-PenguinGame): Game made in Introduction to Game Development class to build a simple C++ engine.
