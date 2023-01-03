@@ -1,6 +1,8 @@
 # henrique-s-projects
 A repository of some projects' assets and code.
 
+![Logo](https://github.com/HenriqueMorae/henrique-s-projects/blob/main/github-logo.png)
+
 ## 🎮 Games
 Here you will find assets and code of three of my games:
   - [Legend of Damacuri](https://leticiafidelix.itch.io/legend-of-damacuri): A tribe of women in a forest, when rejected by the Sun God, decided to seek a new home.
