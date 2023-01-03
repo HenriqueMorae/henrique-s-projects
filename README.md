@@ -3,9 +3,9 @@ A repository of some projects' assets and code.
 
 ## 🎮 Games
 Here you will find assets and code of three of my games:
-  - Legend of Damacuri: A tribe of women in a forest, when rejected by the Sun God, decided to seek a new home.
-  - Supercharger: Charge the superchargers and run to the finish line!
-  - Dice Warriors: A RPG where the dice are the characters.
+  - [Legend of Damacuri](https://leticiafidelix.itch.io/legend-of-damacuri): A tribe of women in a forest, when rejected by the Sun God, decided to seek a new home.
+  - [Supercharger](https://henrique-moraes.itch.io/supercharger): Charge the superchargers and run to the finish line!
+  - [Dice Warriors](https://henrique-moraes.itch.io/dice-warriors-alpha-version): A RPG where the dice are the characters.
 
 ## 📃 My Code
 I worked with another programmer in Legend of Damacuri. In this specific project, I was responsible for the prototype and for the final build.
