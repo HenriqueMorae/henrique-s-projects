@@ -9,6 +9,7 @@ Here you will find assets and code of three of my games:
 
 ## 📃 My Code
 I worked with another programmer in Legend of Damacuri. In this specific project, I was responsible for the prototype and for the final build.
+
 All the code in Supercharger and Dice Warriors is mine.
 
 ## ➕ More
